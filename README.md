@@ -1,4 +1,4 @@
-# Predictive Model for Loan Approval Project
+# Predictive Model for Loan Approval System
 
 This repository contains a comprehensive data science project focused on predicting loan approval outcomes. The project was 
 
